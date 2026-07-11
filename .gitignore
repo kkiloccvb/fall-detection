@@ -1,0 +1,16 @@
+# 虚拟环境（不推送，体积大且和本机路径绑定）
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
